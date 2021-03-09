@@ -1,0 +1,8 @@
+{
+  "name": "PronounDB",
+  "main": "pronoun.js",
+  "description": "Shows the pronouns of the users..",
+  "version": "1.0.0",
+  "tags": ["ui", "dom"],
+  "authors": ["707309693449535599"]
+}
